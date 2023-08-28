@@ -1,5 +1,5 @@
 
-# Curso DIO | GIt e GitHub
+# Curso DIO | Git e GitHub
 
 Esse é um pequeno testo dessa linguagem de marcação MarkDOWN.
 Curso Git e Github
